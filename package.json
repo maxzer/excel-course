@@ -1,0 +1,26 @@
+{
+  "name": "exel-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxzer/excel-course.git"
+  },
+  "author": "maxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxzer/excel-course/issues"
+  },
+  "homepage": "https://github.com/maxzer/excel-course#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
