@@ -10,6 +10,7 @@
 @import "table";
 @import "header";
 @import "header";
+@import "dashboard";
 
 * {
   margin: 0;
@@ -24,4 +25,8 @@ body {
 
 .excel {
   position: relative;
+  color: #888;
+  height: 100%;
+  max-width: 100%;
+  font-size: .8rem;
 }
